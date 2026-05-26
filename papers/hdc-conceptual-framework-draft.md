@@ -1,4 +1,5 @@
 # Hierarchical Decoherence Cosmology
+
 ## Conceptual Framework Draft
 
 **Framework Name:** Hierarchical Decoherence Cosmology (HDC)  
@@ -218,6 +219,7 @@ Thus:
 > The parent frame may remain compatible with quantum information recovery while still lacking sufficient redundant record structure to externally classicalize one unique macroscopic history.
 
 This is stronger than merely saying:
+
 > "the parent cannot see inside."
 
 The proposal is instead:
