@@ -4,11 +4,11 @@
   "description": "**A speculative framework exploring whether classicality may be hierarchy-local rather than globally transitive across cosmological horizons.**",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --write README.md CHANGELOG.md \"papers/**/*.md\" \"notes/**/*.md\" \"references/**/*.md\" \"toy-model/**/*.md\"",
-    "format:check": "prettier --check README.md CHANGELOG.md \"papers/**/*.md\" \"notes/**/*.md\" \"references/**/*.md\" \"toy-model/**/*.md\"",
-    "lint:md": "markdownlint-cli2 README.md CHANGELOG.md \"papers/**/*.md\" \"notes/**/*.md\" \"references/**/*.md\" \"toy-model/**/*.md\"",
+    "format": "prettier --write \"**/*.md\"",
+    "format:check": "prettier --check \"**/*.md\"",
+    "lint:md": "markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#.git\" \"#.vscode\"",
     "precommit": "npm run format:check && npm run lint:md",
-    "fix": "prettier --write README.md CHANGELOG.md \"papers/**/*.md\" \"notes/**/*.md\" \"references/**/*.md\" \"toy-model/**/*.md\" && markdownlint-cli2 --fix README.md CHANGELOG.md \"papers/**/*.md\" \"notes/**/*.md\" \"references/**/*.md\" \"toy-model/**/*.md\"",
+    "fix": "prettier --write \"**/*.md\" && markdownlint-cli2 --fix \"**/*.md\" \"#node_modules\" \"#.git\" \"#.vscode\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
