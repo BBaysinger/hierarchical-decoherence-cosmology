@@ -10,6 +10,18 @@ A star is a large, self-gravitating ball of hot plasma. For most of its life, a 
 
 That released energy pushes outward, while gravity pulls inward. A long-lived star exists because those two tendencies are in rough balance.
 
+## What Holds a Star Up?
+
+The simplest way to picture a star is as a long contest between inward pull and outward support.
+
+- Gravity is always trying to crush the star inward.
+- Pressure from hot matter and radiation pushes outward.
+- During most of a star's life, fusion in the core keeps replenishing that outward pressure.
+
+So a star does not remain stable because gravity switches off. It remains stable because the energy generated in the core keeps building enough pressure to resist collapse.
+
+This is the key background idea for the rest of stellar evolution: when one form of support weakens or fails, the star must either find another form of support or collapse further.
+
 ## Why Do Stars Change Over Time?
 
 Stars are not static objects. They evolve because fusion changes the composition of their cores.
@@ -21,7 +33,7 @@ As lighter elements are fused into heavier ones, the star's internal structure c
 - density,
 - and the kinds of fusion reactions the star can support.
 
-Eventually, the star runs into limits on what it can keep burning in a stable way.
+Eventually, the star runs into limits on what it can keep burning in a stable way. When that happens, the balance between outward pressure and inward gravity must be reestablished in a new form, or the star contracts further.
 
 ## Why Does Mass Matter So Much?
 
@@ -43,6 +55,12 @@ A white dwarf is the dense leftover core of a star that no longer supports itsel
 
 It remains stable not because fusion restarts, but because quantum-mechanical effects help resist further gravitational collapse. In rough terms, matter can only be compressed so far before electron degeneracy pressure becomes important.
 
+So the white-dwarf stage is a change in the source of support:
+
+- the star is no longer held up mainly by fusion,
+- it is now held up by electron degeneracy pressure,
+- and that is enough for some stellar remnants, but not for all.
+
 So the key idea is:
 
 - some stars stop at a dense but stable endpoint,
@@ -53,7 +71,7 @@ So the key idea is:
 
 More massive stars can continue through more violent late stages and may undergo core collapse.
 
-When the core can no longer support itself, gravity wins much more dramatically than it does in the white-dwarf case.
+When the core can no longer generate or maintain enough pressure through its current structure, gravity wins much more dramatically than it does in the white-dwarf case.
 
 That collapse can produce a supernova-like event and leave behind an even denser remnant.
 
@@ -62,6 +80,12 @@ That collapse can produce a supernova-like event and leave behind an even denser
 A neutron star is an ultradense stellar remnant formed when a collapsing core is compressed so strongly that matter is driven into a neutron-rich state.
 
 As with white dwarfs, the main idea is that collapse does not always continue forever. Under the right conditions, another form of degeneracy-supported compact object can remain stable.
+
+In other words, the star has found yet another way to resist gravity:
+
+- fusion is no longer the main support,
+- electron-degeneracy support is no longer enough,
+- but neutron-star matter can still provide a further form of resistance to collapse.
 
 So neutron stars are another case where gravity is extraordinarily strong, but not strong enough to force the formation of a black hole.
 
