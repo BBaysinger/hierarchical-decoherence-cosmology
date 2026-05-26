@@ -2,7 +2,7 @@
 
 **A speculative framework exploring whether classicality may be hierarchy-local rather than globally transitive across cosmological horizons.**
 
-If you want the background first, start with the basic primer: [papers/cosmology-and-black-hole-basics.md](papers/cosmology-and-black-hole-basics.md).
+If you want the background first (for non-cosmologists), start with the basic primer: [papers/cosmology-and-black-hole-basics.md](papers/cosmology-and-black-hole-basics.md).
 
 If you are skimming, start with the main paper draft: [papers/hdc-conceptual-framework-draft.md](papers/hdc-conceptual-framework-draft.md).
 

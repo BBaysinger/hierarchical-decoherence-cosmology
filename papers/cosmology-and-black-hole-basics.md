@@ -36,6 +36,8 @@ A black hole is a region where gravity becomes so strong that, according to gene
 
 That boundary is called the event horizon.
 
+If you want the astrophysical lead-up, including how stars evolve into white dwarfs, neutron stars, or black holes, read [star-lifecycle-and-black-hole-formation.md](star-lifecycle-and-black-hole-formation.md).
+
 For a non-specialist reader, the important point is not every technical detail of black hole geometry. The important point is that black holes create a strong separation between:
 
 - what may happen in an interior region, and
@@ -90,5 +92,6 @@ This is where cosmology and black hole physics enter the picture. They provide s
 
 If this primer is enough background, continue here next:
 
+- stellar lifecycle background: [star-lifecycle-and-black-hole-formation.md](star-lifecycle-and-black-hole-formation.md)
 - main framework paper: [hdc-conceptual-framework-draft.md](hdc-conceptual-framework-draft.md)
 - repository overview: [../README.md](../README.md)
