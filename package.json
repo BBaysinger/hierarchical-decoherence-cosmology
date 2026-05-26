@@ -1,0 +1,30 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "**A speculative framework exploring whether classicality may be hierarchy-local rather than globally transitive across cosmological horizons.**",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.md\"",
+    "format:check": "prettier --check \"**/*.md\"",
+    "lint:md": "markdownlint-cli2 \"**/*.md\"",
+    "precommit": "npm run format:check && npm run lint:md",
+    "fix": "prettier --write \"**/*.md\" && markdownlint-cli2 --fix \"**/*.md\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBaysinger/hierarchical-decoherence-cosmology.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BBaysinger/hierarchical-decoherence-cosmology/issues"
+  },
+  "homepage": "https://github.com/BBaysinger/hierarchical-decoherence-cosmology#readme",
+  "devDependencies": {
+    "markdownlint-cli2": "^0.22.1",
+    "prettier": "^3.8.3"
+  }
+}
