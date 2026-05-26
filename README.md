@@ -22,13 +22,15 @@ Black holes matter here because they force unusually sharp questions about infor
 
 HDC explores that possibility. It does not claim to be a finished theory of cosmology or quantum gravity. It is a conceptual framework asking whether classicality might be local to a hierarchy of observer-accessible regions rather than globally inherited across all horizons.
 
-If you want the full argument after this orientation, continue to the main paper draft: [papers/hdc-conceptual-framework-draft.md](papers/hdc-conceptual-framework-draft.md).
+This README is a short orientation. The full framework is developed in the main paper draft: [papers/hdc-conceptual-framework-draft.md](papers/hdc-conceptual-framework-draft.md).
 
 The central question is:
 
 > Can a horizon-bounded subsystem become internally classical without inducing a corresponding externally classicalized history basis in the parent frame?
 
 HDC proposes that classicality may be non-transitive across cosmological horizons. A subsystem, such as a black-hole-generated child universe, may support internal decoherence, stable records, memory, causality, entropy growth, and effective classical spacetime for internal observers, while remaining externally unresolved relative to the parent universe.
+
+That is, from the outside, the subsystem may remain quantum-mechanically unresolved rather than becoming externally classicalized into one definite macroscopic history. Subsequent interactions or mergers may then modify that unresolved state without ever yielding a redundant external classical record.
 
 ## Repository Structure
 
