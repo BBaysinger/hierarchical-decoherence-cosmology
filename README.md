@@ -2,7 +2,7 @@
 
 **A speculative framework exploring whether classicality may be hierarchy-local rather than globally transitive across cosmological horizons.**
 
-**Status:** Conceptual research framework, active draft stage.
+**Status:** Status: Speculative conceptual framework; not a validated physical theory. Active draft stage.
 
 ## Start Here
 
@@ -12,7 +12,7 @@
 
 Hierarchical Decoherence Cosmology (HDC) is a speculative interpretational framework at the intersection of quantum foundations, decoherence theory, Quantum Darwinism, black hole information, holography, emergent spacetime, and quantum cosmology.
 
-Hierarchical Decoherence Cosmology is an original interpretational framework proposed by Bradley Baysinger. While informed by existing work in quantum foundations, cosmology, and black hole physics, it is presented here as a distinct proposal. To the author's knowledge, this specific framework has not been proposed in this form.
+Hierarchical Decoherence Cosmology is presented here as a speculative interpretational synthesis developed by Bradley Baysinger. It draws on existing work in quantum foundations, decoherence theory, black hole information, holography, and emergent spacetime. The claim is not that its ingredients are new, but that this specific framing — non-transitive classicalization across cosmological horizons — may be a useful way to organize and test them.
 
 ## Plain-Language Orientation
 
