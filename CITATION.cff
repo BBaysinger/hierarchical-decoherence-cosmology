@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use or discuss this repository, please cite it using the metadata below."
+title: "Hierarchical Decoherence Cosmology"
+abstract: "A conceptual research repository for Hierarchical Decoherence Cosmology, an interpretational framework about hierarchy-local classicality across cosmological horizons."
+type: software
+authors:
+  - family-names: "Baysinger"
+    given-names: "Bradley"
+repository-code: "https://github.com/BBaysinger/hierarchical-decoherence-cosmology"
+url: "https://github.com/BBaysinger/hierarchical-decoherence-cosmology"
+license: "ISC"

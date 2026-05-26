@@ -2,9 +2,13 @@
 
 **A speculative framework exploring whether classicality may be hierarchy-local rather than globally transitive across cosmological horizons.**
 
-If you want the background first (for non-cosmologists), start with the basic primer: [papers/cosmology-and-black-hole-basics.md](papers/cosmology-and-black-hole-basics.md).
+**Status:** Conceptual research framework, active draft stage.
 
-If you are skimming, start with the main paper draft: [papers/hdc-conceptual-framework-draft.md](papers/hdc-conceptual-framework-draft.md).
+## Start Here
+
+- If you are new to cosmology or black holes, start with the basic primer: [papers/cosmology-and-black-hole-basics.md](papers/cosmology-and-black-hole-basics.md)
+- If you want the astrophysical path to black holes, read: [papers/star-lifecycle-and-black-hole-formation.md](papers/star-lifecycle-and-black-hole-formation.md)
+- If you are skimming, start with the main paper draft: [papers/hdc-conceptual-framework-draft.md](papers/hdc-conceptual-framework-draft.md)
 
 Hierarchical Decoherence Cosmology (HDC) is a speculative interpretational framework at the intersection of quantum foundations, decoherence theory, Quantum Darwinism, black hole information, holography, emergent spacetime, and quantum cosmology.
 
@@ -18,8 +22,6 @@ Black holes matter here because they force unusually sharp questions about infor
 
 HDC explores that possibility. It does not claim to be a finished theory of cosmology or quantum gravity. It is a conceptual framework asking whether classicality might be local to a hierarchy of observer-accessible regions rather than globally inherited across all horizons.
 
-If terms like black hole, horizon, Big Bang, or cosmology are unfamiliar, read the basics first: [papers/cosmology-and-black-hole-basics.md](papers/cosmology-and-black-hole-basics.md).
-
 If you want the full argument after this orientation, continue to the main paper draft: [papers/hdc-conceptual-framework-draft.md](papers/hdc-conceptual-framework-draft.md).
 
 The central question is:
@@ -30,7 +32,7 @@ HDC proposes that classicality may be non-transitive across cosmological horizon
 
 ## Repository Structure
 
-This repository is organized into a few working areas:
+This repository is organized into a few working areas, some already containing active drafts and others currently serving as scaffolds for planned work:
 
 - `papers/` for draft and polished framework papers
 - `notes/` for source-specific reading notes and synthesis
