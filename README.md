@@ -2,7 +2,15 @@
 
 **A speculative framework exploring whether classicality may be hierarchy-local rather than globally transitive across cosmological horizons.**
 
-Hierarchical Decoherence Cosmology (HDC) is an interpretational quantum-information framework positioned near decoherence theory, quantum foundations, Quantum Darwinism, black hole information theory, holography, emergent spacetime, and quantum cosmology.
+Hierarchical Decoherence Cosmology (HDC) is a speculative interpretational framework at the intersection of quantum foundations, decoherence theory, Quantum Darwinism, black hole information, holography, emergent spacetime, and quantum cosmology.
+
+## Plain-Language Orientation
+
+The basic problem behind this project is simple to state even if the physics is not: why does the world look definite and classical to us if its underlying description is quantum? In everyday life, objects appear to have clear positions, histories, and causes. In quantum theory, that kind of definiteness is not built in so directly, which is why physicists study how stable classical behavior emerges.
+
+Black holes matter here because they force unusually sharp questions about information, horizons, and what different observers can access. A horizon is a boundary beyond which some information is no longer straightforwardly available to an outside observer. In speculative cosmological scenarios, that makes it natural to ask whether an interior region could develop its own effective classical world even if an exterior observer never receives the kind of stable records needed to describe that region as one definite classical history.
+
+HDC explores that possibility. It does not claim to be a finished theory of cosmology or quantum gravity. It is a conceptual framework asking whether classicality might be local to a hierarchy of observer-accessible regions rather than globally inherited across all horizons.
 
 The central question is:
 
