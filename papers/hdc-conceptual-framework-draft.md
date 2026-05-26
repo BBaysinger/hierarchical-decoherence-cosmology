@@ -3,7 +3,7 @@
 ## Conceptual Framework Draft
 
 **Framework Name:** Hierarchical Decoherence Cosmology (HDC)  
-**Core Claim:** Classicality may fail to propagate globally across cosmological horizons.  
+**Core Claim:** Classicality may be hierarchy-local rather than globally transitive across cosmological horizons.  
 **Current Status:** Interpretational quantum-information framework ready for literature mapping and toy-model construction.
 
 ---
