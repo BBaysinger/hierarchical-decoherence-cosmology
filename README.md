@@ -2,7 +2,7 @@
 
 **A speculative framework exploring whether classicality may be hierarchy-local rather than globally transitive across cosmological horizons.**
 
-**Status:** Status: Speculative conceptual framework; not a validated physical theory. Active draft stage.
+**Status:**: Speculative conceptual framework; not a validated physical theory. Active draft stage.
 
 ## Start Here
 
